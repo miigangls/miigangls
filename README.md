@@ -4,13 +4,13 @@ Hi 👋 My name is Miguel Angel Mendoza Cardenas
 Full Stack Engineer
 -------------------
 
-I am a full stack Engineer with Website development, mobile applications.
+<!-- I am a full stack Engineer with Website development, mobile applications.
 
 * 🌍  I'm based in Bogotá, Colombia
 * 🖥️  See my portfolio at [miigangls.com](http://miigangls.com/)
 * ✉️  You can contact me at [miigangls@gmail.com](mailto:miigangls@gmail.com)
 * 🧠  I'm learning Go, python, Vue
-* 🤝  I'm open to collaborating on iRubik, Web Colombia
+* 🤝  I'm open to collaborating on iRubik, Web Colombia -->
 
 <a href="https://www.twitter.com/miigangls" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/miigangls?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

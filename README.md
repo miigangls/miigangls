@@ -67,4 +67,4 @@ src="https://img.shields.io/github/followers/miigangls?logo=github&style=for-the
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/miiganglsI"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/miigangls"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
